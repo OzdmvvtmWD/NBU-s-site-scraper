@@ -2,7 +2,7 @@
 Запус проекта
 =====================================
 заходим в потрібну директорію
-git clone
+git clone https://github.com/OzdmvvtmWD/NBU-s-site-scraper.git
 cd nby_project
 
 створюєму віртуальне середовище venv
